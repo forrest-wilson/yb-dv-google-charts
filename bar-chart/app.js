@@ -30,6 +30,6 @@ function drawChart() {
     };
 
     // Instantiate and draw the chart.
-    var chart = new google.visualization.BarChart(document.getElementById("barChartLocation"));
+    var chart = new google.visualization.BarChart(document.getElementById("chartLocation"));
     chart.draw(data, options);
 }

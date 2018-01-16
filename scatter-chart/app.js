@@ -1,9 +1,9 @@
 "use strict";
 
 google.charts.load("current", {packages: ["corechart"]});
-google.charts.setOnLoadCallback(drawMap);
+google.charts.setOnLoadCallback(drawChart);
 
-function drawMap() {
+function drawChart() {
     var chartDiv = document.getElementById("chartLocation");
 
     var data = new google.visualization.DataTable();

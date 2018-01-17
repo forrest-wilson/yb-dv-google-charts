@@ -1,0 +1,41 @@
+[{
+  "appName": "Solarbreeze",
+  "criticRating": 1.0,
+  "userRating": 3.5
+}, {
+  "appName": "Flowdesk",
+  "criticRating": 3.8,
+  "userRating": 3.8
+}, {
+  "appName": "Latlux",
+  "criticRating": 1.3,
+  "userRating": 1.7
+}, {
+  "appName": "Ventosanzap",
+  "criticRating": 4.2,
+  "userRating": 1.1
+}, {
+  "appName": "Redhold",
+  "criticRating": 0.1,
+  "userRating": 0.8
+}, {
+  "appName": "Veribet",
+  "criticRating": 1.0,
+  "userRating": 1.9
+}, {
+  "appName": "Subin",
+  "criticRating": 4.1,
+  "userRating": 4.0
+}, {
+  "appName": "Gembucket",
+  "criticRating": 1.1,
+  "userRating": 3.6
+}, {
+  "appName": "Voltsillam",
+  "criticRating": 0.2,
+  "userRating": 3.1
+}, {
+  "appName": "Sonsing",
+  "criticRating": 3.9,
+  "userRating": 3.9
+}]

@@ -1,0 +1,32 @@
+[
+    {
+        "year": "2013",
+        "births": 58719,
+        "deaths": 29568,
+        "marriages": 19237
+    },
+    {
+        "year": "2014",
+        "births": 57243,
+        "deaths": 31062,
+        "marriages": 20125
+    },
+    {
+        "year": "2015",
+        "births": 61038,
+        "deaths": 31608,
+        "marriages": 19947
+    },
+    {
+        "year": "2016",
+        "births": 59430,
+        "deaths": 31179,
+        "marriages": 20235
+    },
+    {
+        "year": "2017",
+        "births": 75000,
+        "deaths": 20000,
+        "marriages": 25000
+    }
+]

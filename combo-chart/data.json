@@ -1,0 +1,71 @@
+[{
+  "date": "2018-01-06T18:25:19Z",
+  "nzTemp": 5,
+  "ausTemp": -1,
+  "usTemp": 14,
+  "ukTemp": -3,
+  "average": 31
+}, {
+  "date": "2018-01-01T00:50:57Z",
+  "nzTemp": 17,
+  "ausTemp": 22,
+  "usTemp": -2,
+  "ukTemp": 42,
+  "average": 9
+}, {
+  "date": "2018-01-03T01:12:29Z",
+  "nzTemp": 38,
+  "ausTemp": 27,
+  "usTemp": 19,
+  "ukTemp": 17,
+  "average": 12
+}, {
+  "date": "2018-01-05T21:49:45Z",
+  "nzTemp": 2,
+  "ausTemp": -4,
+  "usTemp": -2,
+  "ukTemp": 35,
+  "average": 0
+}, {
+  "date": "2018-01-09T19:17:49Z",
+  "nzTemp": 2,
+  "ausTemp": 0,
+  "usTemp": 6,
+  "ukTemp": 13,
+  "average": 7
+}, {
+  "date": "2018-01-07T07:02:32Z",
+  "nzTemp": 1,
+  "ausTemp": -7,
+  "usTemp": 39,
+  "ukTemp": 13,
+  "average": -7
+}, {
+  "date": "2018-01-02T07:32:52Z",
+  "nzTemp": 5,
+  "ausTemp": 22,
+  "usTemp": 12,
+  "ukTemp": -5,
+  "average": 31
+}, {
+  "date": "2018-01-06T09:06:37Z",
+  "nzTemp": 21,
+  "ausTemp": 34,
+  "usTemp": 41,
+  "ukTemp": 12,
+  "average": -6
+}, {
+  "date": "2018-01-06T00:46:49Z",
+  "nzTemp": 40,
+  "ausTemp": 44,
+  "usTemp": 33,
+  "ukTemp": 27,
+  "average": 5
+}, {
+  "date": "2018-01-01T15:55:17Z",
+  "nzTemp": 9,
+  "ausTemp": 6,
+  "usTemp": -3,
+  "ukTemp": -8,
+  "average": 34
+}]

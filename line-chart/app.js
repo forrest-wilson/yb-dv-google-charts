@@ -40,7 +40,6 @@ function drawChart() {
                 var moreInfo = json[tableRow];
 
                 if (moreInfo) {
-                    console.log(moreInfo);
                     document.getElementById("avatarImage").src = moreInfo.avatar;
                     document.getElementById("minTemp").textContent = "Min Temp: " + moreInfo.min + " C";
                     document.getElementById("maxTemp").textContent = "Max Temp: " + moreInfo.max + " C";

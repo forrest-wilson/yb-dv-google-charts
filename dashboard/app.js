@@ -108,8 +108,8 @@ function drawDashboard(){
                 var view = new google.visualization.DataView(data);
                 view.setRows(data.getFilteredRows([
                     {
-                        column: 2,
-                        minValue: range.lowValue,
+                        column: 2, // Filters through the income column. See the 'data' variable
+                        minValue: range.lowValue, // gets the range of the slider
                         maxValue: range.highValue
                     }
                 ]));
